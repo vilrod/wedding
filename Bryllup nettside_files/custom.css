@@ -1,0 +1,19 @@
+.wedding-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.wedding-heading h1, .wedding-heading h6 {
+  color: black;
+}
+
+.wedding-heading img{
+  max-width: 90%;
+  width: 500px;
+}
+
+.spacer-lol {
+  height: 300px;
+}
