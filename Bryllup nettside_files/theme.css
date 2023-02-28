@@ -167,8 +167,8 @@ section.bg-primary li {
 /*!---------- TYPOGRAPHY ----------*/
 body {
   font-family: "Quicksand", "Libre Baskerville", "Georgia", Times New Roman, Time, serif;
-  font-size: 14px;
-  line-height: 28px;
+  font-size: 16px;
+  line-height: 30px;
   color: #444444;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -223,7 +223,7 @@ h5 {
 }
 h6,
 .h6 {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 20px;
   font-weight: 700;
   text-transform: uppercase;
