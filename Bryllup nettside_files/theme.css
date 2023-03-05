@@ -511,14 +511,14 @@ nav {
 .line-1,
 .line-2,
 .line-3 {
-  width: 45px;
+  width: 30px;
   height: 4px;
   background: #222;
   margin-bottom: 4px;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
-  opacity: .4;
+  opacity: .6;
 }
 .mobile-toggle:hover .line-1,
 .mobile-toggle:hover .line-2,
