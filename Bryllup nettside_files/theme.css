@@ -1122,10 +1122,10 @@ nav.light.scrolled .line-3 {
   padding-bottom: 60px;
 }
 .accom-2 .feature {
-  margin-bottom: 60px;
+  margin-bottom: 80px;
 }
 .accom-2 h2 {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 .accom-2 img {
   display: inline-block;
@@ -1134,6 +1134,7 @@ nav.light.scrolled .line-3 {
 .accom-2 h6 {
   color: black;
   margin-bottom: 15px;
+  font-size: 16px;
 }
 /*!---------- REGISTRY ----------*/
 .registry-1 h2 {
