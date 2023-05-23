@@ -38,3 +38,16 @@
 .travel-header {
   font-weight: 600;
 }
+
+.program td {
+  font-weight: 400;
+}
+
+.program td:first-child {
+  width: 120px;
+}
+
+.small-text-info {
+  font-size: 0.8em;
+  font-size: 300;
+}
